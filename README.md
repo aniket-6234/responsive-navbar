@@ -9,3 +9,7 @@
 2. design the nav bar using flex 
 3. open stylesheet (css file)
 4. and understand the code.
+
+# It's really easy to make nav bar.
+# you don't need to watch the youtube tutorial and not to refer any documentations.
+# just follow step by step code.
